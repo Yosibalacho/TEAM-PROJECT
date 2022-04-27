@@ -1,11 +1,11 @@
 body{ font-family: 'Orelega One', cursive;
-
+ background-color: rgb(191, 204, 204);
+}
+.main-container{
+    height: 150vh;
+   
 }
 
-.footer{
+.footer {
     width: 100vw;
-}
-
-.main-container {
-    height: 100%;
 }
