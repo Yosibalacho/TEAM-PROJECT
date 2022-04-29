@@ -6,7 +6,10 @@ body {
 .facebook-icon{
   width:2vw ;
   height:4vh;
-
+}
+.email-icon{
+  width:2vw;
+  height:4vh;
 }
 .footer{
   height: 10vh;
