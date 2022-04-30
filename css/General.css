@@ -1,6 +1,8 @@
 body {
   font-family: "Orelega One", cursive;
-  background-color: rgb(191, 204, 204);
+  background-image: url(../images/backgrounds/logo9.png);
+  /* background-repeat: no-repeat; */
+  background-size: contain;
 }
 
 .facebook-icon{
