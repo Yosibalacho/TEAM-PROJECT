@@ -1,0 +1,19 @@
+
+@media only screen and ( min-width: 600px) {
+    #inputs{
+      display: flex;
+      flex-direction: column;
+      
+    }
+    body{
+        height: 100vh;
+    }
+   
+}
+@media only screen and ( max-width:600px) {
+    body{
+        height:100vh; 
+    }
+
+}
+
